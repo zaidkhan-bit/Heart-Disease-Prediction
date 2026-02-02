@@ -115,7 +115,7 @@ The person has Heart Disease
 
 Clone the repository
 
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/zaidkhan-bit/Heart-Disease-Prediction.git
 
 
 Install required libraries
